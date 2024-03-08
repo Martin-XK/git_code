@@ -1,0 +1,6 @@
+#! /usr/bin/bash
+
+pwd
+ps aux
+ls -l
+date
